@@ -33,7 +33,7 @@ The dataset, "DATA ANALYTICS PROJECT DATASET.xlsx," includes a variety of econom
 #### **Comprehensive Analysis and Insights**
 - **Economic Health:** Analysis suggests a robust trade environment and points to complexities in job creation despite economic growth.
 - **Sectoral Growth:** Consistent growth in sectors like IT/BPM is evident, with significant impacts of FDI on sector development.
-![image](https://github.com/user-attachments/assets/2c5eefa1-c68c-4f72-ab90-c94786e406e0)
+
 
 
 ![16e2afd6-02bf-4658-a85e-92a825233420](https://github.com/Ankit160009/Data-Analytics-Project/assets/136299987/61a8299e-a551-4943-a4b4-91cd3bbbebda)
